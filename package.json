@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/karma/bin/karma start karma.conf.js"
+    "karama_test": "./node_modules/karma/bin/karma start karma.conf.js",
+    "mocha_test": "./node_modules/mocha/bin/mocha"
   },
   "author": "",
   "license": "ISC",
